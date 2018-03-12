@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1496574957 source:c:\users\lenovo\documents\toni\oop-kn\geometry library\main.cpp
+	<iostream>
+	"circle.h"
+	"triangle.h"
+	"rectangle.h"
+	"square.h"
+	"picture.h"
+
+1496080046 source:c:\users\lenovo\documents\toni\oop-kn\geometry library\circle.cpp
+	"circle.h"
+
+1496080221 c:\users\lenovo\documents\toni\oop-kn\geometry library\circle.h
+	"figure.h"
+	"functions.h"
+
+1496079707 c:\users\lenovo\documents\toni\oop-kn\geometry library\figure.h
+	<iostream>
+	"point.h"
+
+1496080139 c:\users\lenovo\documents\toni\oop-kn\geometry library\point.h
+	<iostream>
+
+1496080254 c:\users\lenovo\documents\toni\oop-kn\geometry library\functions.h
+	<cmath>
+	"point.h"
+
+1496080062 source:c:\users\lenovo\documents\toni\oop-kn\geometry library\functions.cpp
+	"functions.h"
+
+1496080139 source:c:\users\lenovo\documents\toni\oop-kn\geometry library\point.cpp
+	"point.h"
+
+1496080266 source:c:\users\lenovo\documents\toni\oop-kn\geometry library\rectangle.cpp
+	"rectangle.h"
+
+1496079139 c:\users\lenovo\documents\toni\oop-kn\geometry library\rectangle.h
+	"figure.h"
+	"functions.h"
+
+1496080340 source:c:\users\lenovo\documents\toni\oop-kn\geometry library\square.cpp
+	"square.h"
+
+1496080327 c:\users\lenovo\documents\toni\oop-kn\geometry library\square.h
+	"figure.h"
+	"functions.h"
+	"rectangle.h"
+	"circle.h"
+
+1496575256 source:c:\users\lenovo\documents\toni\oop-kn\geometry library\triangle.cpp
+	"triangle.h"
+
+1496081957 c:\users\lenovo\documents\toni\oop-kn\geometry library\triangle.h
+	"figure.h"
+	"circle.h"
+	"functions.h"
+	<cmath>
+
+1496080783 source:c:\users\lenovo\documents\toni\oop-kn\geometry library\picture.cpp
+	"picture.h"
+
+1496080827 c:\users\lenovo\documents\toni\oop-kn\geometry library\picture.h
+	"square.h"
+	"circle.h"
+	"rectangle.h"
+	"triangle.h"
+	<vector>
+
